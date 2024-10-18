@@ -4,7 +4,7 @@
 @import url(../block/footer/footer.css);
 @import url(../block/header/header.css);
 @import url(../block/kaufman/kaufman.css);
-@import url(../block/khan/khan.css);
+@import url(./block/khan/khan.css);
 @import url(../block/oakley/oakley.css);
 @import url(../block/page/page.css);
 @import url(../block/ratation/rotation.css);
