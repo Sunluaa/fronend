@@ -1,0 +1,46 @@
+.techniques{
+    padding-top:100px;
+    margin: 0 auto 0;
+    width: 80%;
+  }
+  
+  .cards {
+    margin: 0 auto 0 auto;
+    width: 926px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 100px;
+  }
+  .cards_item{
+    display: flex;
+    margin-top: 60px;
+    flex-direction: column;
+    width: 240px;
+  }
+  .cards__img{
+    width: 160px;
+    height: 160px;
+    margin: 0 40px 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-radius: 50%;
+  }
+  .cards__image{
+    width: 160px;
+    height: 160px;
+  }
+  
+  .cards_title{
+    margin-top: 43px;
+    text-align: center;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .cards_description{
+    margin-top: 16px;
+    text-align: center;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+  }
